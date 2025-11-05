@@ -1,0 +1,11 @@
+com/bookstore/dto/BookDTO.class
+com/bookstore/controller/BookController.class
+com/bookstore/service/AuthorService.class
+com/bookstore/BookstoreApiApplication.class
+com/bookstore/controller/AuthorController.class
+com/bookstore/repository/AuthorRepository.class
+com/bookstore/service/BookService.class
+com/bookstore/model/Author.class
+com/bookstore/repository/BookRepository.class
+com/bookstore/dto/AuthorDTO.class
+com/bookstore/model/Book.class
